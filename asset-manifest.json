@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/goread/static/css/main.15f84196.css",
-    "main.js": "/goread/static/js/main.7a4b2b37.js",
+    "main.js": "/goread/static/js/main.00543f09.js",
     "index.html": "/goread/index.html",
     "main.15f84196.css.map": "/goread/static/css/main.15f84196.css.map",
-    "main.7a4b2b37.js.map": "/goread/static/js/main.7a4b2b37.js.map"
+    "main.00543f09.js.map": "/goread/static/js/main.00543f09.js.map"
   },
   "entrypoints": [
     "static/css/main.15f84196.css",
-    "static/js/main.7a4b2b37.js"
+    "static/js/main.00543f09.js"
   ]
 }
